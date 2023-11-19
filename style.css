@@ -22,6 +22,5 @@ html, body {
 /* Ensuring the cursor is always visible */
 #typingCanvas:focus {
     outline: none; /* Removes the outline to keep the interface clean */
-    caret-color: blue; /* Makes the cursor blue for better visibility */
 }
 
